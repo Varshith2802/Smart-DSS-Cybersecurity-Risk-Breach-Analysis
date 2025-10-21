@@ -1,0 +1,42 @@
+[
+  {
+    "vessel_name": "EverGreen",
+    "imo_number": "1234567",
+    "mmsi": "210123456",
+    "latitude": 55.673,
+    "longitude": 12.568,
+    "speed": 13.5,
+    "timestamp": "2024-04-12T14:30:00",
+    "alert_flag": false
+  },
+  {
+    "vessel_name": "PortGuard",
+    "imo_number": "7654321",
+    "mmsi": "210765432",
+    "latitude": 55.691,
+    "longitude": 12.600,
+    "speed": 10.1,
+    "timestamp": "2024-04-12T14:45:00",
+    "alert_flag": false
+  },
+  {
+    "vessel_name": "Speedster",
+    "imo_number": "9876543",
+    "mmsi": "210987654",
+    "latitude": 55.680,
+    "longitude": 12.570,
+    "speed": 30.0,
+    "timestamp": "2024-04-12T15:00:00",
+    "alert_flag": false
+  },
+  {
+    "vessel_name": "HarborLight",
+    "imo_number": "3456789",
+    "mmsi": "210345678",
+    "latitude": 55.655,
+    "longitude": 12.560,
+    "speed": 5.0,
+    "timestamp": "2024-04-12T15:15:00",
+    "alert_flag": false
+  }
+]

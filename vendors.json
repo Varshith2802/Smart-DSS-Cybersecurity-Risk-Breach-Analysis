@@ -1,0 +1,702 @@
+[
+  {
+    "name": "TechVendor 1",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 2",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 3",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 4",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 5",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 6",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 7",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 8",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 9",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 10",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 11",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 12",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 13",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 14",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 15",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 16",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 17",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 18",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 19",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 20",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 21",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 22",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 23",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 24",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 25",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 26",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 27",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 28",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 29",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 30",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 31",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 32",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 33",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 34",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 35",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 36",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 37",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 38",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 39",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 40",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 41",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 42",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 43",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 44",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 45",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 46",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 47",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 48",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 49",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 50",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 51",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 52",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 53",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 54",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 55",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 56",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 57",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 58",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 59",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 60",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 61",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 62",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 63",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 64",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 65",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 66",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 67",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 68",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 69",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 70",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 71",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 72",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 73",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 74",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 75",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 76",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 77",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 78",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 79",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 80",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 81",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 82",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 83",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 84",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 85",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 86",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 87",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 88",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 89",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 90",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 91",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 92",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 93",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 94",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 95",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 96",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 97",
+    "software_assets": "Antivirus, VPN, DLP",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 98",
+    "software_assets": "SIEM, Antivirus",
+    "cloud_assets": "Azure, AWS",
+    "industrial_assets": "PLC-100, Industrial Camera",
+    "ais_data": true
+  },
+  {
+    "name": "TechVendor 99",
+    "software_assets": "Antivirus, Firewall",
+    "cloud_assets": "GCP, Azure",
+    "industrial_assets": "SCADA, Conveyor Belt",
+    "ais_data": false
+  },
+  {
+    "name": "TechVendor 100",
+    "software_assets": "Endpoint Protection, Intrusion Detection",
+    "cloud_assets": "AWS, GCP",
+    "industrial_assets": "SensorX, RobotY",
+    "ais_data": true
+  }
+]
