@@ -202,6 +202,4 @@ MIT (or your preferred license). See `LICENSE`.
 
 * Streamlit, scikit-learn/XGBoost, Cesium/Deck/Leaflet
 * Public maritime & cyber datasets used to bootstrap demos
-
-```
 ```
